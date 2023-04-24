@@ -2,4 +2,4 @@
 this a website for simple, easy and quick recipes
 It has recipes for hot summers and chilly rainy days
 
-Live site: https://shocktopus-dot.ggithub.io/Odin-recipes/
+Live site: https://shocktopus-dot.github.io/Odin-recipes/
